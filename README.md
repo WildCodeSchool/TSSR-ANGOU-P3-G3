@@ -15,7 +15,7 @@
 
 ## 1) Présentation du projet, et ses objectifs
 
-Ce projet consiste à réaliser, gérer et améliorer une infrastructure réseau dans une entreprise fictive "Ecotech Solutions" 
+Ce projet consiste à réaliser, gérer et améliorer une infrastructure réseau dans une entreprise fictive "Ecotech Solutions", basée sur le deploiement de solutions 
 
 
 ## 2) Introduction : mise en contexte
