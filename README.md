@@ -15,14 +15,10 @@
 
 ## 1) Présentation du projet, et ses objectifs
 
-Ce projet consiste à réaliser, gérer et améliorer une infrastructure réseau dans une entreprise fictive "Ecotech Solutions" composée de 54 personnes 
+Ce projet consiste à réaliser, gérer et améliorer une infrastructure réseau dans une entreprise fictive "Ecotech Solutions", basée sur le deploiement de solutions 
 
 
 ## 2) Introduction : mise en contexte
-
-En 2022 un raport de Cisco évaluait le nombre d'équipements numériques connectés à 28.5 milliards et 4.8 millards d'utilisateurs connectés au réseaux Internet.
-Avec l'augmentation des objets et des services connectés, les techniciens et services informatiques en charge de l'administration des équipements et réseaux sont donc de plus en plus solicités et ils n'ont plus le temps de jouer aux cartes :-). 
-Afin de faciliter l'intégration et la désintégration des utilisateurs et leurs équipements, gagner en rapidité, en souplesse le technicien informatique peut, en s'appuyant sur une infrastructure réseau, faire l'usage de scripts, automatiser ses tâches et enfin finir sa partie de carte !!!
 
 
 ## 3) Membres du groupe de projet (rôles par sprint)
