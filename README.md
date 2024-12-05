@@ -28,9 +28,9 @@ Afin de faciliter l'intégration et la désintégration des utilisateurs et leur
 
 | Rôles du groupe | SPRINT 1 | SPRINT 2 | SPRINT 3 | SPRINT 4 | SPRINT 5 | 
 |:--------| :------: | :-----------: | :-----------: | :--------: | :--------: |
-| Scrum Master  | Thomas  |   |   |   |   |     |
-| Product Owner |  Mathieu | | | | | |
-| Technicien |  Fabrice | |  |  |  |  |
+| Scrum Master  | Thomas  |  Thomas |   |   |   |     |
+| Product Owner |  Mathieu | Mathieu | | | | |
+| Technicien |  Fabrice | Fabrice |  |  |  |  |
 
 
 Objectifs Sprint 1 : 
