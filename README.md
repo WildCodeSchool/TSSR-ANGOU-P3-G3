@@ -4,12 +4,12 @@
 ## Index
 
 1) [Présentation du projet, et ses objectifs](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G3/tree/main?tab=readme-ov-file#1-pr%C3%A9sentation-du-projet-et-ses-objectifs)
-2) Mise en contexte()
-3) Membres du groupe projet, rôles par sprint et objectifs par sprint()
-4) Choix Techniques()
-5) Difficultés rencontrés()
-6) Solutions aux problèmes rencontrés()
-7) Améliorations futures()
+2) Mise en contexte
+3) Membres du groupe projet, rôles par sprint et objectifs par sprint
+4) Choix Techniques
+5) Difficultés rencontrés
+6) Solutions aux problèmes rencontrés
+7) Améliorations futures
 
 
 
