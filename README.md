@@ -25,17 +25,17 @@ Dans un contexte d'evolution technologique les entreprises, font appel a des ent
 
 ## 3) Membres du groupe de projet (rôles par sprint)
 
-| Rôles du groupe | SPRINT 1 | SPRINT 2 | SPRINT 3 | SPRINT 4 | SPRINT 5 | SPRINT 6 | 
-|:--------| :------: | :-----------: | :-----------: | :--------: | :--------: | :--------: |
-| Scrum Master  | Thomas  |  Thomas |   |   |   |   | |
-| Product Owner |  Mathieu | Mathieu | | | | | |
-| Technicien |  Fabrice | Fabrice |  |  |  |  | |
+| Rôles du groupe | SPRINT 1 | SPRINT 2 | SPRINT 3 | SPRINT 4 | SPRINT 5 | SPRINT 6 | SPRINT 7 | SPRINT 8 | SPRINT 9 | SPRINT 10 | 
+|:--------| :------: | :-----------: | :-----------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| Scrum Master  | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas | Mathieu | Mathieu |
+| Product Owner | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice |
+| Technicien    | Fabrice | Fabrice | Thomas | Thomas  | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas  | 
 
-| Rôles du groupe | SPRINT 7 | SPRINT 8 | SPRINT 9 | SPRINT 10 | SPRINT 11 | SPRINT 12 | 
-|:--------| :------: | :-----------: | :-----------: | :--------: | :--------: | :--------: |
-| Scrum Master  |   |  |   |   |   |   | |
-| Product Owner |  |  | | | | | |
-| Technicien |  | |  |  |  |  | |
+| Rôles du groupe | SPRINT 11 | SPRINT 12 | SPRINT 13 | SPRINT 14 | SPRINT 15 | SPRINT 16 | SPRINT 17 | SPRINT 18 | SPRINT 19 | SPRINT 20 |
+|:--------| :------: | :-----------: | :-----------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| Scrum Master  | Fabrice | Fabrice | Thomas | Thomas  | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas  |
+| Product Owner | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas | Mathieu | Mathieu |
+| Technicien    | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice |
 
 
 **Objectifs Sprint 1 :** 
