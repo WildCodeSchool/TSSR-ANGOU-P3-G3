@@ -38,6 +38,7 @@ Afin de faciliter l'intégration et la désintégration des utilisateurs et leur
 | Product Owner |  |  | | | | | |
 | Technicien |  | |  |  |  |  | |
 
+
 Objectifs Sprint 1 : 
 
  - Réflechir à l'organisation et la gestion du projet
