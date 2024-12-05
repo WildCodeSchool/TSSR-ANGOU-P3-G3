@@ -20,6 +20,7 @@ Ce projet consiste à réaliser, gérer et améliorer une infrastructure réseau
 
 ## 2) Introduction : mise en contexte
 
+Dans un contexte d'evolution technologique les entreprises, font appel a des entreprises prestataires pour pouvoir assurer le bon fonctionnement des équipements et des outils informatiques. C'est le métier des techniciens systèmes et réseaux et d'accompagner le suivi quotidien et d'intervenir en cas de dysfonctionnement ou de problêmes majeurs qui peuvent mettre en péril la production ou l'entreprise en elle-même. 
 
 
 ## 3) Membres du groupe de projet (rôles par sprint)
@@ -37,19 +38,19 @@ Ce projet consiste à réaliser, gérer et améliorer une infrastructure réseau
 | Technicien |  | |  |  |  |  | |
 
 
-Objectifs Sprint 1 : 
+**Objectifs Sprint 1 :** 
 
  - Réflechir à l'organisation et la gestion du projet
  - Ebauche des différentes documentations ( README, Install, User_guide )
  - Établir un schéma réseau prévisionnel de l'infrastructure
 
-Objectifs Sprint 2 :
+**Objectifs Sprint 2 :**
 
 
-Objectifs Sprint 3 :
+**Objectifs Sprint 3 :**
 
 
-Objectifs Sprint 4 :
+**Objectifs Sprint 4 :**
 
 
 
