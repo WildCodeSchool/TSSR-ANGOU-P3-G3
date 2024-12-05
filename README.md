@@ -26,12 +26,17 @@ Afin de faciliter l'intégration et la désintégration des utilisateurs et leur
 
 ## 3) Membres du groupe de projet (rôles par sprint)
 
-| Rôles du groupe | SPRINT 1 | SPRINT 2 | SPRINT 3 | SPRINT 4 | SPRINT 5 | 
-|:--------| :------: | :-----------: | :-----------: | :--------: | :--------: |
-| Scrum Master  | Thomas  |  Thomas |   |   |   |     |
-| Product Owner |  Mathieu | Mathieu | | | | |
-| Technicien |  Fabrice | Fabrice |  |  |  |  |
+| Rôles du groupe | SPRINT 1 | SPRINT 2 | SPRINT 3 | SPRINT 4 | SPRINT 5 | SPRINT 6 | 
+|:--------| :------: | :-----------: | :-----------: | :--------: | :--------: | :--------: |
+| Scrum Master  | Thomas  |  Thomas |   |   |   |   | |
+| Product Owner |  Mathieu | Mathieu | | | | | |
+| Technicien |  Fabrice | Fabrice |  |  |  |  | |
 
+| Rôles du groupe | SPRINT 7 | SPRINT 8 | SPRINT 9 | SPRINT 10 | SPRINT 11 | SPRINT 12 | 
+|:--------| :------: | :-----------: | :-----------: | :--------: | :--------: | :--------: |
+| Scrum Master  |   |  |   |   |   |   | |
+| Product Owner |  |  | | | | | |
+| Technicien |  | |  |  |  |  | |
 
 Objectifs Sprint 1 : 
 
