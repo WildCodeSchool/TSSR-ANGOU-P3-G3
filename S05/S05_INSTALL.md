@@ -1,4 +1,4 @@
-# Sprint 01 - Documentation d'Installation - Projet 3 - Groupe Sans Souchis
+# Sprint 05 - Documentation d'Installation - Projet 3 - Groupe Sans Souchis
 
 ## Prérequis techniques
 
