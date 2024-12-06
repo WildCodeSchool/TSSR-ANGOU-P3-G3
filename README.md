@@ -20,7 +20,7 @@ Ce projet consiste à réaliser, gérer et améliorer une infrastructure réseau
 
 ## 2) Introduction : mise en contexte
 
-Dans un contexte d'evolution technologique les entreprises, font appel a des prestataires pour pouvoir assurer le bon fonctionnement la gestion de leurs parc informatique. C'est le métier des techniciens systèmes et réseaux et d'accompagner le suivi quotidien et d'intervenir en cas de dysfonctionnement ou de problèmes majeurs qui peuvent mettre en péril la production ou l'entreprise en elle-même. Élément essentiel pour une entreprise, la gestion de leur parc informatique ainsi que le bon fonctionnement de l’utilisation réseau et de leur télécommunication.
+Dans un contexte d'evolution technologique les entreprises, font appel a des prestataires pour pouvoir assurer le bon fonctionnement la gestion de leur parc informatique. Le métier des techniciens systèmes et réseaux est d'accompagner le suivi quotidien et d'intervenir en cas de dysfonctionnement. Ces Derniers peuvent être la source de problèmes majeurs mettant en péril la production ou l'entreprise en elle-même.
 
 
 ## 3) Membres du groupe de projet (rôles par sprint)
