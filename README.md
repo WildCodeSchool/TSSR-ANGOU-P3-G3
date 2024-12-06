@@ -15,7 +15,7 @@
 
 ## 1) Présentation du projet, et ses objectifs
 
-Ce projet consiste à réaliser, gérer et améliorer une infrastructure réseau. En tant que prestataire, nous avons pour mission d'accompagner et de suivre l'evolution de l'entreprise fictive "Ecotech Solutions", basée sur le deploiement de solutions de systèmes de surveillance et l'optimisation des ressources naturelles. 
+Ce projet consiste à la mise en place et améliorer une infrastructure réseau. En tant que prestataire, nous avons pour mission d'accompagner et de suivre l'evolution de l'entreprise fictive "Ecotech Solutions", basée sur le deploiement de solutions de systèmes de surveillance et l'optimisation des ressources naturelles. 
 
 
 ## 2) Introduction : mise en contexte
