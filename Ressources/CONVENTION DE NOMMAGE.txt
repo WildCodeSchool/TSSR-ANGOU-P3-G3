@@ -1,0 +1,25 @@
+CONVENTION DE NOMMAGE
+ECO TECH SOLUTIONS
+
+
+
+MESSAGERIE / 
+
+p.nom@ecotechsolutions
+
+
+PCs /
+PC-dir-xx
+PC-dev-xx
+PC-com-xx
+PC-rh-xx
+PC-fcpt-xx
+PC-mkt-xx
+PC-dsi-xx
+
+SERVEURS /						ROUTEUR /
+SW-DHCP_DNS					RP
+SW- MESSAGERIE
+SW-SAVE
+SW-FICHIER
+SW-WEB
