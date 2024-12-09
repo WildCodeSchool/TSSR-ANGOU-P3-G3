@@ -23,3 +23,7 @@ SW- MESSAGERIE
 SW-SAVE
 SW-FICHIER
 SW-WEB
+
+Utilisateurs /
+<première-lettre-prénom>.<nom-famille>
+e.exemple
