@@ -11,7 +11,7 @@ p.nom@ecotechsolutions
 PCs /
 PC-dir-xx
 PC-dev-xx
-PC-com-xx
+PC-sc-xx
 PC-rh-xx
 PC-fcpt-xx
 PC-mkt-xx
@@ -27,3 +27,12 @@ SW-WEB
 Utilisateurs /
 <première-lettre-prénom>.<nom-famille>
 e.exemple
+
+Groupes /
+GRP-dir
+GRP-dev
+GRP-sc
+GRP-rh
+GRP-fcpt
+GRP-mkt
+GRP-dsi
