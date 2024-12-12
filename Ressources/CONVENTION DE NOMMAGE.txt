@@ -18,11 +18,11 @@ PC-mkt-xx
 PC-dsi-xx
 
 SERVEURS /						ROUTEUR /
-SW-DHCP_DNS_AD				RP
-SW-MESSAGERIE
-SW-SAVE
-SW-FICHIER
-SW-WEB
+SRV-DHCP_DNS_AD				RP
+SRV-MESSAGERIE
+SRV-SAVE
+SRV-FICHIER
+SRV-WEB
 
 Utilisateurs /
 <première-lettre-prénom>.<nom-famille>
