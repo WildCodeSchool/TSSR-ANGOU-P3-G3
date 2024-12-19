@@ -56,3 +56,10 @@ Voici la capture d'ecran comme référence :
 
 
 ## FAQ : solutions aux problèmes connus et communs liés à l'installation et à la configuration
+
+Message d'erreur : "Le compte spécifié existe déja" 
+
+-> Solution Trouvée : supprimer l'ordinateur de l'Active Directory sur le serveur. 
+
+
+
