@@ -62,12 +62,11 @@ Dans un contexte d'evolution technologique les entreprises, font appel a des pre
 
 Pour le choix des serveurs, nous avons : 
 
-SERV-AD-01 : Windows Server 2022 en GUI 
-SRV-AD-02 : Windows Server Core 2022
+SERV-AD-01 : Windows Server 2022 en GUI      
+SRV-AD-02 : Windows Server Core 2022   
 SRV-DEB : Linux Debian 
 
 Pour le choix des postes clients, nous avons :
-Linux Debian 
 
 
 ## 5) Difficultés rencontrées : problèmes techniques rencontrés
