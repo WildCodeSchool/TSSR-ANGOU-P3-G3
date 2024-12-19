@@ -46,7 +46,10 @@ Dans un contexte d'evolution technologique les entreprises, font appel a des pre
 
 **Objectifs Sprint 2 :**
 
-
+- Création d'un domaine Active Directory avec réplication complète gérée
+- Gestion de l'arborescence AD, création des Organisation Unit, intégration des utilisateurs
+- Création d'une VM Serveur Linux Debian VM ou CT en CLI Sur le domaine AD-DS
+   
 **Objectifs Sprint 3 :**
 
 
