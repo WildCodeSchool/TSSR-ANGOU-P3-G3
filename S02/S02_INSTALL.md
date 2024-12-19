@@ -61,5 +61,5 @@ Message d'erreur : "Le compte spécifié existe déja"
 
 -> Solution Trouvée : supprimer l'ordinateur de l'Active Directory sur le serveur. 
 
-
+![Capture d'écran 2024-12-19 105823](https://github.com/user-attachments/assets/3a21bd67-a61a-46bb-bc11-8b5c4918a68d)
 
