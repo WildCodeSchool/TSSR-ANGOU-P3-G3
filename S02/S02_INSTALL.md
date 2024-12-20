@@ -7,6 +7,8 @@ Proxmox, une VM : Windows SERVER Core 2022
 
 ## Etapes d'installation et de configuration (instructions étape par étape)
 
+> via la VM Windows Server Core 2022
+
 **- Configuration de la VM Server Core**
 
 - Affecter une adresse ip statique au serveur :
