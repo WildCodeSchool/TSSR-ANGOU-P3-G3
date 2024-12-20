@@ -38,14 +38,11 @@ Add-WindowsFeature -Name "DNS" -IncludeManagementTools -IncludeAllSubFeature
 
 **- Intégration au domaine de l'active Directory**
 
-Pour joindre le serveur à un domaine, saisissez 1 et appuyez sur Entrée. 
-  Suivez ensuite les instructions à l'écran pour joindre le domaine.
-  
-  Domaine : ecotechsolutions.fr
- 
-  Domaine\Utilisateur : ecotechsolutions.fr\Administrateur 
-  
-  Mot de passe : Azerty1*
+Pour joindre le serveur à un domaine, saisissez 1 et appuyez sur Entrée.      
+    Suivez ensuite les instructions à l'écran pour joindre le domaine.    
+    Domaine : ecotechsolutions.fr   
+    Domaine\Utilisateur : ecotechsolutions.fr\Administrateur   
+    Mot de passe : Azerty1*  
 
 
 Voici la capture d'ecran comme référence : 
