@@ -1,0 +1,59 @@
+Civilité,Prenom,Nom,Societe,Site,Departement,Groupes,Service,fonction,Nomenclature,Manager-Prenom,Manager-Nom,Nom de PC,Marque PC,Date de naissance,Telephone fixe,Telephone portable,Télétravail,OUs,Sous-OUs,Sous-sous-OUs,Grp
+Mme,Cleo,Dupont,EcoTechSolutions,Bordeaux,Communication,grp-mkt-employés,Communication interne,Community manager,c.dupont,Wassim,Ibrahimovic,PA19149,DELL,14/05/1989  ,0556789012,0736672209  ,Non,Utilisateurs,SERVEURS,SRV-LIN,grp-dir-responsables
+M.,Boris,Garcia,EcoTechSolutions,Bordeaux,Communication,grp-mkt-employés,Communication interne,Community manager,b.garcia,Wassim,Ibrahimovic,PA11094,DELL,01/01/1991  ,0576543210,0710630503  ,Non,Machines,PC,SRV-WIN,grp-dir-employés
+M.,Wassim,Ibrahimovic,EcoTechSolutions,Bordeaux,Communication,grp-mkt-responsables,,Directrice Communication et Relations publiques,w.ibrahimovic,Emir,Rizzo,PA68385,DELL,14/11/1994  ,0567890123,0628752957  ,Non,Administrateurs,Communication,WINDOWS,grp-dev-responsables
+Mme,Farah,Kowalski,EcoTechSolutions,Bordeaux,Communication,grp-mkt-employés,Relation Médias,Chargée relation presse,f.kowalski,Wassim,Ibrahimovic,PA99009,DELL,16/11/1994  ,0587654321,0643567057  ,Non,,Développement,LINUX,grp-dev-employés
+M.,Felix,Nguyen,EcoTechSolutions,Bordeaux,Communication,grp-mkt-employés,Communication interne,Chargé en droit de la communication,f.nguyen,Wassim,Ibrahimovic,PA88356,DELL,03/11/1982  ,0512345678,0747070420  ,Non,,Direction,,grp-sc-responsables
+M.,Oscar,Rossi,EcoTechSolutions,Bordeaux,Communication,grp-mkt-employés,Communication interne,Chargé de communication,o.rossi,Wassim,Ibrahimovic,PA10218,DELL,17/06/1993  ,0510987654,0707561174  ,Non,,Direction des Ressources Humaines,,grp-sc-employés
+M.,Rayan,Sousa,EcoTechSolutions,Bordeaux,Communication,grp-mkt-employés,Relation Médias,Chargée relation presse,r.sousa,Wassim,Ibrahimovic,PA76764,DELL,10/08/1988  ,0534567890,0732836175  ,Non,,DSI,,grp-rh-responsables
+M.,Paolo,Weber,EcoTechSolutions,Bordeaux,Communication,grp-mkt-employés,Relation Médias,Rédacteur,p.weber,Wassim,Ibrahimovic,PA92969,DELL,17/11/1992  ,0532109876,0655605121  ,Non,,Finance et Comptabilité,,grp-rh-employés
+M.,Ivan,Schmidt,Studio Dlight,Nantes,Communication,grp-mkt-employés,Relation Médias,Monteur,i.schmidt,Wassim,Ibrahimovic,-,-,-,-,0684213048,-,,Service Commercial,,grp-mkt-responsables
+M.,Hugo,Dimitrov,EcoTechSolutions,Bordeaux,Développement,grp-dev-responsables,,Directeur Développement,h.dimitrov,Emir,Rizzo,PA93655,TOSHIBA,21/09/1998  ,0512345678,0730413931  ,Non,,,,grp-mkt-employés
+Mme,Petra,Hoàng,EcoTechSolutions,Bordeaux,Développement,grp-dev-employés,Développement,Développeur,p.hoàng,Hugo,Dimitrov,PA33002,TOSHIBA,17/05/1991  ,0587654321,0749534624  ,Non,,,,grp-fcpt-responsables
+Mme,Carmen,Ivanov,EcoTechSolutions,Bordeaux,Développement,grp-dev-employés,analyse et conception,Développeur,c.ivanov,Hugo,Dimitrov,PA90613,HP,12/10/1993  ,-,-,Non,,,,grp-fcpt-employés
+Mme,Mia,Lopez,EcoTechSolutions,Bordeaux,Développement,grp-dev-employés,Développement,Développeur,m.lopez,Hugo,Dimitrov,PA69037,HP,01/06/1993  ,-,-,Non,,,,grp-dsi-responsables
+M.,Nikos,Papadopoulos,EcoTechSolutions,Bordeaux,Développement,grp-dev-employés,Test et qualité,Développeur,n.papadopoulos,Hugo,Dimitrov,PA83940,LENOVO,23/12/1986  ,0576543210,0628631838  ,Non,,,,grp-dsi-employés
+M.,Teo,Patel,EcoTechSolutions,Bordeaux,Développement,grp-dev-employés,Développement,Développeur,t.patel,Hugo,Dimitrov,PA48530,LENOVO,25/12/1993  ,-,-,Non,,,,
+Mme,Lia,Prado,EcoTechSolutions,Bordeaux,Développement,grp-dev-employés,Recherche et Prototype,Développeur,l.prado,Hugo,Dimitrov,PA27339,HP,11/03/1992  ,0510987654,0704209714  ,Non,,,,
+Mme,Aisha,Rahman,EcoTechSolutions,Bordeaux,Développement,grp-dev-employés,analyse et conception,Développeur,a.rahman,Hugo,Dimitrov,PA41987,HP,26/08/1987  ,-,-,Non,,,,
+M.,Ahmed,Torres,EcoTechSolutions,Bordeaux,Développement,grp-dev-employés,Recherche et Prototype,Développeur,a.torres,Hugo,Dimitrov,PA82471,HP,17/11/1993  ,0540987654,0653178244  ,Non,,,,
+Mme,Zara,Fernandez,UBIHard,Paris,Développement,grp-dev-employés,Test et qualité,Développeur,z.fernandez,Hugo,Dimitrov,-,-,-,-,-,-,,,,
+M.,Diego,Müller,UBIHard,Paris,Développement,grp-dev-employés,Test et qualité,Développeur,d.müller,Hugo,Dimitrov,-,-,-,0512345678,0619087602,-,,,,
+M.,Noa,Ramos,UBIHard,Paris,Développement,grp-dev-employés,Test et qualité,Développeur,n.ramos,Hugo,Dimitrov,-,-,-,-,-,-,,,,
+Mme,Maria,Subramanian,UBIHard,Paris,Développement,grp-dev-employés,Test et qualité,Développeur,m.subramanian,Hugo,Dimitrov,-,-,-,-,-,-,,,,
+M.,Luka,Zimmermann,UBIHard,Paris,Développement,grp-dev-employés,Test et qualité,Développeur,l.zimmermann,Hugo,Dimitrov,-,-,-,-,-,-,,,,
+M.,Emir,Rizzo,EcoTechSolutions,Bordeaux,Direction,grp-dir-responsables,,CEO,e.rizzo,-,,PA12959,TOSHIBA,09/05/1985  ,0587654321,0653791741  ,Non,,,,
+M.,Leo,Tanaka,EcoTechSolutions,Bordeaux,Direction,grp-dir-employés,,Assistant de direction,l.tanaka,Emir,Rizzo,PA75792,TOSHIBA,12/12/1998  ,0532109876,0757172438  ,Non,,,,
+Mme,Salma,Bianchi,EcoTechSolutions,Bordeaux,Direction des Ressources Humaines,grp-rh-responsables,,Responsable recrutement,s.bianchi,Emir,Rizzo,PA20618,HP,10/05/1992  ,0510987654,0784105738  ,Non,,,,
+Mme,Jana,Liu,EcoTechSolutions,Bordeaux,Direction des Ressources Humaines,grp-rh-employés,,Agent RH,j.liu,Salma,Bianchi,PA31784,HP,09/08/1983  ,0534567890,-,Non,,,,
+M.,Kai,Sato,EcoTechSolutions,Bordeaux,Direction des Ressources Humaines,grp-rh-employés,,Agent RH,k.sato,Salma,Bianchi,PA66766,HP,31/07/1986  ,0545678901,-,Non,,,,
+M,Pierre Axel,Jimenes,Sans Souchis,Angoulême ,DSI,grp-dsi-responsables,,DSI Sans Souchis,pa.jimenez,,,,,,,,,,,,
+M.,Thomas ,Garreau,Sans Souchis,Angoulême ,DSI,grp-dsi-employés,,,t.garreau,,,,,,,,Non,,,,
+M.,Mathieu,Leroux,Sans Souchis,Angoulême ,DSI,grp-dsi-employés,,,m.leroux,,,,,,,,Non,,,,
+M.,Fabrice,Locatelli,Sans Souchis,Angoulême ,DSI,grp-dsi-employés,,,f.locatelli,,,,,,,,Non,,,,
+M.,Marwan,Leclerc,EcoTechSolutions,Bordeaux,DSI,grp-dsi-employés,Exploitation,Technicien d'exploitation,m.leclerc,Yara,Tsai,PA21577,DELL,02/08/1995  ,0576543210,0687340310  ,Non,,,,
+Mme,Yara,Tsai,EcoTechSolutions,Bordeaux,DSI,grp-dsi-responsables,,Responsable SI,y.tsai,Emir,Rizzo,PA85785,DELL,31/10/1990  ,0532109876,0663073894  ,Non,,,,
+M.,Mateo,Zhang,EcoTechSolutions,Bordeaux,DSI,grp-dsi-employés,Exploitation,Technicien d'exploitation,m.zhang,Yara,Tsai,PA76820,DELL,20/10/2001  ,0512345678,0673124437  ,Non,,,,
+Mme,Elif,Andersen,EcoTechSolutions,Bordeaux,Finance et Comptabilité,grp-fcpt-employés,Fiscalité,Conseiller en fiscalité,e.andersen,Liam,Rodriguez,PA31320,LENOVO,22/08/1982  ,0534567890,-,Non,,,,
+Mme,Tara,Costa,EcoTechSolutions,Bordeaux,Finance et Comptabilité,grp-fcpt-employés,Service Comptabilité,Comptable,t.costa,Liam,Rodriguez,PA56314,DELL,26/05/2000  ,0587654321,-,Non,,,,
+M.,Alexis,Fischer,EcoTechSolutions,Bordeaux,Finance et Comptabilité,grp-fcpt-employés,Finance,Controleur de gestion,a.fischer,Liam,Rodriguez,PA57512,HP,28/11/1986  ,0545678901,-,Non,,,,
+M.,Dario,Kim,EcoTechSolutions,Bordeaux,Finance et Comptabilité,grp-fcpt-employés,Finance,Analyste financier,d.kim,Liam,Rodriguez,PA34551,TOSHIBA,21/10/1992  ,0532109876,-,Non,,,,
+Mme,Mila,Pereira,EcoTechSolutions,Bordeaux,Finance et Comptabilité,grp-fcpt-employés,Service Comptabilité,Comptable,m.pereira,Liam,Rodriguez,PA30790,HP,14/08/1987  ,0534567890,-,Non,,,,
+M.,Liam,Rodriguez,EcoTechSolutions,Bordeaux,Finance et Comptabilité,grp-fcpt-responsables,Finance,Directeur financier,l.rodriguez,Emir,Rizzo,PA68867,HP,18/10/1992,0545678901,0648462640  ,Non,,,,
+Mme,Amara,Silva,EcoTechSolutions,Bordeaux,Finance et Comptabilité,grp-fcpt-employés,Finance,Controleur de gestion,a.silva,Liam,Rodriguez,PA12959,TOSHIBA,05/05/1995  ,0545678901,-,Non,,,,
+M.,Iker,Yilmaz,EcoTechSolutions,Bordeaux,Finance et Comptabilité,grp-fcpt-employés,Service Comptabilité,Comptable,i.yilmaz,Liam,Rodriguez,PA68447,LENOVO,11/06/1998  ,0576543210,-,Non,,,,
+Mme,Tina,Demir,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,ADV,Gestionnaire ADV,t.demir,Amir,Gómez,PA64810,DELL,16/11/1984  ,0587654321,0621673896  ,Non,,,,
+Mme,Aria,Ekström,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,ADV,Gestionnaire ADV,a.ekström,Amir,Gómez,PA46917,DELL,02/09/1990  ,0540987654,0739063477  ,Non,,,,
+M.,Amir,Gómez,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,ADV,Responsable ADV,a.gómez,Lana,Wong,PA16564,DELL,16/07/1988  ,0512345678,0697336293  ,Non,,,,
+Mme,Gita,Hassania,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,B2B,Commercial,g.hassania,Lana,Wong,PA82880,DELL,18/08/1991  ,0534567890,0655939808  ,Non,,,,
+M.,Val,Hernandez,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,Service Client,Agent,v.hernandez,Enzo,Morin,PA39395,DELL,25/01/1985  ,0545678901,-,Non,,,,
+M.,David,Johansson,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,ADV,Gestionnaire ADV,d.johansson,Amir,Gómez,PA16353,DELL,19/11/2001  ,0512345678,0763236659  ,Non,,,,
+M.,Gôrreck,Khan,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,B2B,Commercial,g.khan,Lana,Wong,PA90176,DELL,23/02/1987  ,0510987654,0799413599  ,Non,,,,
+Mme,Sasha,Kumar,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,Service Client,Agent,s.kumar,Enzo,Morin,PA79817,DELL,23/09/1994  ,0587654321,-,Non,,,,
+M.,Rami,Meier,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,B2B,Commercial,r.meier,Lana,Wong,PA44614,DELL,16/12/1982  ,0510987654,0703432899  ,Non,,,,
+M.,Enzo,Morin,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,Service achat,Responsable achat,e.morin,Lana,Wong,PA19149,DELL,26/08/1988  ,0556789012,0696228844  ,Non,,,,
+M.,Marco,Nikolić,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,ADV,Gestionnaire ADV,m.nikolić,Amir,Gómez,PA37602,DELL,10/11/1987  ,0576543210,0606722898  ,Non,,,,
+Mme,Aya,Orozco,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,Service achat,Acheteur,a.orozco,Enzo,Morin,PA59874,DELL,30/03/1991  ,0540987654,0690730213  ,Non,,,,
+Mme,Nina,Schaefer,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,B2B,Commercial,n.schaefer,Lana,Wong,PA12427,DELL,01/02/1992  ,0510987654,0662152312  ,Non,,,,
+M.,Daan,Varela,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-employés,Service achat,Acheteur,d.varela,Enzo,Morin,PA16013,DELL,29/04/1999  ,0556789012,0654606027  ,Non,,,,
+Mme,Lana,Wong,EcoTechSolutions,Bordeaux,Service Commercial,grp-sc-responsables,,Directeur commercial,l.wong,Emir,Rizzo,PA90233,TOSHIBA,12/05/1997,0534567890,0734442721  ,Non,,,,
