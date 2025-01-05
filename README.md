@@ -71,7 +71,7 @@ Pour le choix des postes clients, nous avons :
 
 ## 5) Difficultés rencontrées : problèmes techniques rencontrés
 
-> Redémarrage automatique du Serveur windows AD 01
+> Extinction automatique du Serveur windows AD 01
 
 
 
