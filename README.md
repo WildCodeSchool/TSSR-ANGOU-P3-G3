@@ -71,6 +71,9 @@ Pour le choix des postes clients, nous avons :
 
 ## 5) Difficultés rencontrées : problèmes techniques rencontrés
 
+> Redémarrage automatique du Serveur windows AD 01
+
+
 
 
 ## 6) Solutions trouvées : Solutions et alternatives trouvées
