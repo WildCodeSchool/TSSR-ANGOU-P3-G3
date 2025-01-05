@@ -15,4 +15,8 @@
 - #### Supprimer un objet protégé de l'Active Directory
   Pour supprimer un objet de l'active directory protégé contre les supressions accidentelles, se rendre dans __Active Directory Users and       Computers__ > __view__ > et activer __Advenced Features__.\
   Puis cliquer droit sur l'objet à supprimer __Properties__ > onglet __object__ > décocher __Protect object from accidental deletion__
+
+- #### Formater un script ou un fichier pour afficher les accents
+  Pour formater un script ou un ficher afin d'afficher les accents, ouvrir le fichier ou le script concerné avec le notepad de Windows. Cliquer sur __files__ > __Save As__, tout en bas de la fenêtre dans le menu déroulant __Encoding__ séléctionner __UTF-8 with BOM (UTF-8 avec nomenclature)__ et écraser/sauvegarder le fichier.
+    
   
