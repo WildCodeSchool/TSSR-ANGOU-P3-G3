@@ -13,7 +13,7 @@ function creation_OU {
 
         # Initialisation des variables
         $OUsNom = $OUs.Ous
-        $OUsDistinguishedName = "OU=$OUsNom,DC=lab,DC=lan"
+        $OUsDistinguishedName = "OU=$OUsNom,DC=ecotechsolutions,DC=fr"
 
         # Vérification de l'existance de l'unité d'organisation
         if (Get-ADOrganizationalUnit -Filter "distinguishedName -eq '$OUsDistinguishedName'") {    
@@ -25,7 +25,7 @@ function creation_OU {
         else {
         
             New-ADOrganizationalUnit -Name "$OUsNom" `
-            -Path "DC=lab,DC=lan" `
+            -Path "DC=ecotechsolutions,DC=fr" `
             -ProtectedFromAccidentalDeletion:$false
         }
         # Vérification de la création de l'unité d'organisation
@@ -48,7 +48,7 @@ function creation_OU {
 
         # Initialisation des variables
         $SousOUsNom = $SousOUs.'Sous-OUs'
-        $SOUsDistinguishedName = "OU=$SousOUsNom,DC=lab,DC=lan"
+        $SOUsDistinguishedName = "OU=$SousOUsNom,DC=ecotechsolutions,DC=fr"
 
         # Vérification de l'existance de l'unité d'organisation
         if (Get-ADOrganizationalUnit -Filter "distinguishedName -eq '$SOUsDistinguishedName'") {    
@@ -59,7 +59,7 @@ function creation_OU {
         # Création des Sous Unités d'organisations
         else {
             New-ADOrganizationalUnit -Name "$SousOUsNom" `
-            -Path "DC=lab,DC=lan" `
+            -Path "DC=ecotechsolutions,DC=fr" `
             -ProtectedFromAccidentalDeletion:$false
         }
         # Vérification de la création de l'unité d'organisation
@@ -81,7 +81,7 @@ function creation_OU {
     Foreach($SousousOUs in $CSV_Sous_sous_OUs_Data){
         # Initialisation des variables
         $SouSousOUsNom = $SousousOUs.'Sous-sous-OUs'
-        $SousousOUsDistinguishedName = "OU=$SousousOUsNom,DC=lab,DC=lan"
+        $SousousOUsDistinguishedName = "OU=$SousousOUsNom,DC=ecotechsolutions,DC=fr"
 
         # Vérification de l'existance de l'unité d'organisation
         if (Get-ADOrganizationalUnit -Filter "distinguishedName -eq '$SousousOUsDistinguishedName'") {    
@@ -91,8 +91,8 @@ function creation_OU {
         else {
 
         # Création des Unités d'organisations
-        New-ADOrganizationalUnit -Name "$SousousOUsNom" 
-        -Path "DC=lab,DC=lan"
+        New-ADOrganizationalUnit -Name "$SousousOUsNom" `
+        -Path "DC=ecotechsolutions,DC=fr" `
         -ProtectedFromAccidentalDeletion:$false
 
         }
@@ -121,7 +121,7 @@ function creation_groupe {
         # Initialisation des variables groupes
         $GroupeNom = $Groupe.Groupes
         $EmplacementGroupe = $Groupe.Departement
-        $GroupeDistinguishedName = "CN=$GroupeNom,OU=$EmplacementGroupe,OU=Utilisateurs,DC=lab,DC=lan"
+        $GroupeDistinguishedName = "CN=$GroupeNom,OU=$EmplacementGroupe,OU=Utilisateurs,DC=ecotechsolutions,DC=fr"
 
         # Vérification de l'existance du groupe
         if (Get-ADGroup -Filter "distinguishedName -eq '$GroupeDistinguishedName'") {    
@@ -136,7 +136,7 @@ function creation_groupe {
             Name = "$GroupeNom"
             GroupScope = "Domain"
             DisplayName = "$GroupeNom"
-            Path = "OU=$EmplacementGroupe,OU=Utilisateurs,DC=lab,DC=lan"
+            Path = "OU=$EmplacementGroupe,OU=Utilisateurs,DC=ecotechsolutions,DC=fr"
             Description = "Groupe de sécurité pour le département $GroupeNom" }
 
             New-ADGroup @GroupeAttributs
@@ -183,7 +183,7 @@ function creation_utilisateur {
         $UtilisateurTelephone_portable = $Utilisateur.'Telephone portable'
         $UtilisateurTélétravail = $Utilisateur.'Télétravail'
         $UtilisateurEmplacement = $Utilisateur.Departement
-        $UtilisteurEmail = "$UtilisateurLogin@ecothecsolutions.lan"
+        $UtilisteurEmail = "$UtilisateurLogin@ecothecsolutions.fr"
         $UtilisateurMotDePasse = (ConvertTo-SecureString -AsPlainText "Azerty1*" -Force)
         $UtilisateurGroupe = $Utilisateur.Groupes
 
@@ -202,7 +202,7 @@ function creation_utilisateur {
             -SamAccountName $UtilisateurLogin `
             -DisplayName "$UtilisateurCivilite $UtilisateurPrenom $UtilisateurNom" `
             -AccountPassword $UtilisateurMotDePasse `
-            -Path "OU=$UtilisateurEmplacement,OU=Utilisateurs,DC=lab,DC=lan" `
+            -Path "OU=$UtilisateurEmplacement,OU=Utilisateurs,DC=ecotechsolutions,DC=fr" `
             -City $UtilisateurSite `
             -Department $UtilisateurDepartement `
             -Manager $UtilisateurManager `
@@ -232,7 +232,7 @@ function creation_utilisateur {
         # Création de l'ordinateur s'il existe
         if($UtilisateurNom_PC -ne "" -and $UtilisateurNom_PC -notlike "-") {
 
-            $script:OrdinateurDistinguishedName = "CN=$UtilisateurNom_PC,OU=PC,OU=Machines,DC=lab,DC=lan"
+            $script:OrdinateurDistinguishedName = "CN=$UtilisateurNom_PC,OU=PC,OU=Machines,DC=ecotechsolutions,DC=fr"
             creation_ordinateur
         }
 
@@ -247,7 +247,7 @@ function creation_utilisateur {
             -SamAccountName $CompteAdmin `
             -DisplayName "Adm $UtilisateurPrenom $UtilisateurNom" `
             -AccountPassword $UtilisateurMotDePasse `
-            -Path "OU=Administrateurs,DC=lab,DC=lan" `
+            -Path "OU=Administrateurs,DC=ecotechsolutions,DC=fr" `
             -City $UtilisateurSite `
             -Department $UtilisateurDepartement `
             -Manager $UtilisateurManager `
@@ -289,7 +289,7 @@ function creation_ordinateur {
             # Création de l'ordinateur
             New-ADComputer -Name "$UtilisateurNom_PC" `
             -SamAccountName "$UtilisateurNom_PC" `
-            -Path "OU=PC,OU=Machines,DC=lab,DC=lan" `
+            -Path "OU=PC,OU=Machines,DC=ecotechsolutions,DC=fr" `
             -Description "Ordinateur de $UtilisateurCivilite $UtilisateurPrenom $UtilisateurNom " `
             -Enabled $true `
             -ManagedBy $UtilisateurLogin 
