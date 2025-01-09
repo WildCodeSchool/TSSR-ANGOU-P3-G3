@@ -53,6 +53,7 @@ Dans un contexte d'evolution technologique les entreprises, font appel a des pre
 **Objectifs Sprint 3 :**
 
 
+
 **Objectifs Sprint 4 :**
 
 
@@ -71,12 +72,18 @@ Pour le choix des postes clients, nous avons :
 
 ## 5) Difficultés rencontrées : problèmes techniques rencontrés
 
-> Extinction automatique du Serveur windows AD 01
-
-
+- Extinction automatique du Serveur windows AD 01 : [solution trouvée](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G3/edit/main/README.md#--extinction-automatique-du-serveur-windows-ad-01-)
+- Problème de serveur RID, impossibilité d'ajouter de nouveaux objets à l'AD. Problème provenant très certainement de la récupération du Serveur AD principal depuis une snapshot sur Proxmox. Une redondance paramétrée sur le serveur windows core et plus récente que la snapshot à mis le serveur principal hors d'état de fonctionner. [solution trouvée](https://github.com/WildCodeSchool/TSSR-ANGOU-P3-G3/edit/main/README.md#--probl%C3%A8me-de-serveur-rid-impossibilit%C3%A9-dajouter-de-nouveaux-objets-%C3%A0-lad-)
 
 
 ## 6) Solutions trouvées : Solutions et alternatives trouvées
+
+#### - Extinction automatique du Serveur windows AD 01 :
+ Commande powershell à entrer permettant de réactiver la licence pour 10 jours : `slmgr /rearm`
+ (à tester et à commenter) Autre commande à entrer pour une activation plus longue : `irm https://get.activated.win/ | iex`
+
+#### - Problème de serveur RID, impossibilité d'ajouter de nouveaux objets à l'AD :
+ Reconstruction de l'infrastructure et import des utilisateurs.
 
 
 
