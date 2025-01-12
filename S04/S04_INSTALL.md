@@ -99,7 +99,7 @@ ssh-add $env:USERPROFILE\.ssh\<fichierid_ecdsa
 Télécharger et installer le logiciel Putty pour se connecter en SSH
 
 Entrer l'adresse IP du serveur SSH auquel on veut se connecter et configurer le port sur lequel le server est en écoute.
-Il est possible d'enregistrer les paramétres de la sessions pour une connexion ultérieur.
+Il est possible d'enregistrer les paramétres de la sessions pour une connexion ultérieur.\
 ![connection-ssh-putty](images/connection-ssh-putty.png)
 
 Pour gérer les clés SSH avec Putty, utiliser le programme puttygen.exe
