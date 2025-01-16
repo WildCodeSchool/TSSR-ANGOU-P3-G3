@@ -81,6 +81,8 @@ Pour le choix des postes clients, nous avons :
 
 - Pas d'accès Internet en IPV6 :
   - Pour accèder à internet sous windows en IPv6, désactiver la carte réseau reliée au réseau de l'AD semble régler le problème. On ne peut plus accèdes à machine de l'AD. Mais on peut accéder à internet.
+ 
+- Ajouter une Seconde OU de la même AD à l'Annuaire LDAP de GLPI : Les utilisateurs ne sont pas trouvés lors de la recherche pour ajouter de nouveaux utilisateurs depuis cet OU.
 
 
 
