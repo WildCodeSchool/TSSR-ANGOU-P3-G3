@@ -79,6 +79,9 @@ Pour le choix des postes clients, nous avons :
 - Problème de serveur RID, impossibilité d'ajouter de nouveaux objets à l'AD. Problème provenant très certainement de la récupération du Serveur AD principal depuis une snapshot sur Proxmox. Une redondance paramétrée sur le serveur windows core et plus récente que la snapshot à mis le serveur principal hors d'état de fonctionner __Solution__ :
   - Reconstruction de l'infrastructure et import des utilisateurs.
 
+- Pas d'accès Internet en IPV6 :
+  - Pour accèder à internet sous windows en IPv6, désactiver la carte réseau reliée au réseau de l'AD semble régler le problème. On ne peut plus accèdes à machine de l'AD. Mais on peut accéder à internet.
+
 
 
  
