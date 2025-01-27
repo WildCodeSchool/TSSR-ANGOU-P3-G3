@@ -17,4 +17,12 @@ Les résponsables du service DSI d'ecotechsolutions et de Sans Soushis sont admi
 
 Le compte super utilisateur par défault à été changé conformément à notre nomenclature.
 
+Des Catégories "Globale" d'incidents ont été ajouté afin de catégoriser un incidents :
+- Question/Aide
+- Logiciel
+- Matériel
+- Réseau
+- Base de Données
+
+
 ## FAQ : solutions aux problèmes connus et communs liés à l'installation et à la configuration
