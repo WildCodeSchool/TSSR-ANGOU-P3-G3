@@ -88,3 +88,7 @@ Pour le choix des postes clients, nous avons :
  
 ## 6) Améliorations possibles : suggestions d’améliorations futures
 
+### Catégories ITIL GLPI
+
+Afiner les catégories de déclaration d'incidents de ticket sous GLPI avec des classification plus étendues et des sous catégories.
+
