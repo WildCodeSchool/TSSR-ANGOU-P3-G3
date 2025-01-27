@@ -8,7 +8,7 @@
 
 ### Configuration GLPI - ECOTECHSOLUTION
 
-#### Profil
+#### Comptes et Profils
 Le profil par défault __Hotliner__ est utilisé pour gérer les tickets. Ce profil est configuré avec des possibilités légérements étendus à la configuration par défault. Ces droits permettent notamment une visibilité étendue des tickets (groupes), la possibilité d'en séléctionner plusieurs à la fois ainsi que de les valider une fois résolus.
 
 Les administrateur de l'AD de l'entreprise sont ajoutés au profil __Hotliner__ de GLPI afin de gérer les tickets.
