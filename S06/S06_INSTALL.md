@@ -13,4 +13,8 @@ Le profil par défault __Hotliner__ est utilisé pour gérer les tickets. Ce pro
 
 Les administrateur de l'AD de l'entreprise sont ajoutés au profil __Hotliner__ de GLPI afin de gérer les tickets.
 
+Les résponsables du service DSI d'ecotechsolutions et de Sans Soushis sont administrateurs de GLPI.
+
+Le compte super utilisateur par défault à été changé conformément à notre nomenclature.
+
 ## FAQ : solutions aux problèmes connus et communs liés à l'installation et à la configuration
