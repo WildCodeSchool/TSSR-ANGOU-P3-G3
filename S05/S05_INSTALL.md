@@ -2,7 +2,7 @@
 
 ## Prérequis techniques
 
-VM proxmox, Windows server 2022 avec DHCP, Active Directory.
+VM proxmox, Windows server 2022 avec DHCP, Active Directory.    
 Deux cartes réseaux : vmbrg3 : connécté au réseau
                       vmbr3 : connecté au domaine
 
@@ -12,8 +12,19 @@ Deux cartes réseaux : vmbrg3 : connécté au réseau
 
 #### - stratégies de groupe standard :
 
-_USR-
+User-Interface-Wallpaper ( GPO pour le deploiement du fond écran )
+
+User-Install-Chrome
+
+User-Install-Vim
+
 
 #### - stratégies de groupe sécurité : 
+
+Blocking-Access-Command-Prompt
+
+Blocking-Access-Registry
+
+User-Deny-ControlPanel
 
 ## FAQ : solutions aux problèmes connus et communs liés à l'installation et à la configuration
