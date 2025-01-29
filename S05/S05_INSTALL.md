@@ -27,3 +27,11 @@ Blocking-Access-Registry
 User-Deny-ControlPanel ( GPO pour bloquer l'accés au panneau de configuration )
 
 ## FAQ : solutions aux problèmes connus et communs liés à l'installation et à la configuration
+ 
+- Mes GPO ne sont pas appliquées, avec comme message d'erreur : filtering not applied ( unknown reason ) ? 
+
+Veillez a bien garder ou ajouter le groupe authenticated users.
+
+
+
+
