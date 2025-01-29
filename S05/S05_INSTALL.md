@@ -3,8 +3,7 @@
 ## Prérequis techniques
 
 VM proxmox, Windows server 2022 avec DHCP, Active Directory.    
-Deux cartes réseaux : vmbrg3 : connécté au réseau
-                      vmbr3 : connecté au domaine
+Deux cartes réseaux : vmbrg3 : connécté au réseau / vmbr3 : connecté au domaine
 
 ## Etapes d'installation et de configuration (instructions étape par étape)
 
