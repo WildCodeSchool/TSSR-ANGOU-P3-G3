@@ -13,6 +13,16 @@ Deux cartes réseaux : vmbrg3 : connécté au réseau / vmbr3 : connecté au dom
 
 User-Interface-Wallpaper ( GPO pour le deploiement du fond écran )
 
+> Editer la gpo,
+ User Configuration   
+ Policies     
+ Administrative templates   
+ Desktop   
+ Desktop   
+
+![image](https://github.com/user-attachments/assets/d7391bba-9f28-4fc5-b6a7-4987e36f7499)
+
+
 User-Install-Chrome ( Gpo pour l'installation de Google Chrome )
 
 User-Install-Vim ( Gpo pour l'installation de Vim, editeur de texte )  
@@ -27,7 +37,7 @@ User-Deny-ControlPanel ( GPO pour bloquer l'accés au panneau de configuration )
 
 ## FAQ : solutions aux problèmes connus et communs liés à l'installation et à la configuration
  
-- Mes GPO ne sont pas appliquées, avec comme message d'erreur : filtering not applied ( unknown reason ) ? 
+-- Mes GPO ne sont pas appliquées, avec comme message d'erreur : filtering not applied ( unknown reason ) ? 
 
 Veillez a bien garder ou ajouter le groupe authenticated users.
 
