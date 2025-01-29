@@ -28,11 +28,11 @@ User-Install-Chrome ( Gpo pour l'installation de Google Chrome )
 télecharger la version chrome entreprise .msi
 via ce lien : https://chromeenterprise.google/download/?utm_source=adwords&utm_medium=cpc&utm_campaign=2025-q1-chromebrowser-paidmed-paiddisplay-other-chromebrowserent&utm_term=downloadnow-chrome-browser-enterprise-download&utm_content=GCOU&brand=GCOU&gad_source=1&gclid=Cj0KCQiAwOe8BhCCARIsAGKeD55Y-c9Je7Zkv5S8__Txq7cRv_tSb88dIAZ3FRG0fvW7KnktCK7oDnIaArcmEALw_wcB&gclsrc=aw.ds
 
-> Editer la gpo,
- User Configuration   
- Software settings
- Published Applications
- Google Chrome
+> Editer la gpo,   
+ User Configuration      
+ Software settings    
+ Published Applications    
+ Google Chrome     
       - Product information
       - Deployment : Published
       
