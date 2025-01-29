@@ -13,6 +13,8 @@ Deux cartes réseaux : vmbrg3 : connécté au réseau / vmbr3 : connecté au dom
 
 User-Interface-Wallpaper ( GPO pour le deploiement du fond écran )
 
+créer un dossier partagé avec le fond écran à deployer.
+
 > Editer la gpo,
  User Configuration   
  Policies     
@@ -26,7 +28,7 @@ User-Interface-Wallpaper ( GPO pour le deploiement du fond écran )
 User-Install-Chrome ( Gpo pour l'installation de Google Chrome )
 
 télecharger la version chrome entreprise .msi
-via ce lien : https://chromeenterprise.google/download/?utm_source=adwords&utm_medium=cpc&utm_campaign=2025-q1-chromebrowser-paidmed-paiddisplay-other-chromebrowserent&utm_term=downloadnow-chrome-browser-enterprise-download&utm_content=GCOU&brand=GCOU&gad_source=1&gclid=Cj0KCQiAwOe8BhCCARIsAGKeD55Y-c9Je7Zkv5S8__Txq7cRv_tSb88dIAZ3FRG0fvW7KnktCK7oDnIaArcmEALw_wcB&gclsrc=aw.ds
+via ce lien : [chrome entreprise](https://chromeenterprise.google/download/?utm_source=adwords&utm_medium=cpc&utm_campaign=2025-q1-chromebrowser-paidmed-paiddisplay-other-chromebrowserent&utm_term=downloadnow-chrome-browser-enterprise-download&utm_content=GCOU&brand=GCOU&gad_source=1&gclid=Cj0KCQiAwOe8BhCCARIsAGKeD55Y-c9Je7Zkv5S8__Txq7cRv_tSb88dIAZ3FRG0fvW7KnktCK7oDnIaArcmEALw_wcB&gclsrc=aw.ds)
 
 > Editer la gpo,   
  User Configuration      
