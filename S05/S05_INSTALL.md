@@ -14,17 +14,16 @@ Deux cartes réseaux : vmbrg3 : connécté au réseau
 
 User-Interface-Wallpaper ( GPO pour le deploiement du fond écran )
 
-User-Install-Chrome
+User-Install-Chrome ( Gpo pour l'installation de Google Chrome )
 
-User-Install-Vim
-
+User-Install-Vim ( Gpo pour l'installation de Vim, editeur de texte )  
 
 #### - stratégies de groupe sécurité : 
 
-Blocking-Access-Command-Prompt
+Blocking-Access-Command-Prompt ( GPO pour bloquer l'accés a l'invite de commandes )
 
 Blocking-Access-Registry
 
-User-Deny-ControlPanel
+User-Deny-ControlPanel ( GPO pour bloquer l'accés au panneau de configuration )
 
 ## FAQ : solutions aux problèmes connus et communs liés à l'installation et à la configuration
