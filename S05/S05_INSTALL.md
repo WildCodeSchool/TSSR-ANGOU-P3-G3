@@ -75,7 +75,11 @@ Computer-Resrtiction-Software : restreindre l'installation de nouveaux logiciels
  Software restriction policies/additional rules
 
 
-![image](https://github.com/user-attachments/assets/ce1dee01-438a-4531-938c-e7149f4b28c7)
+![image](https://github.com/user-attachments/assets/aeef754b-62c2-42b1-9f9c-5142c0ad6cb2)
+
+Verification de la GPO sur la machine cliente
+
+![image](https://github.com/user-attachments/assets/6dd770f3-1359-4f6b-ac5f-8aa233e4e7a9)
 
 
 User-Deny-ControlPanel : GPO pour bloquer l'accés au panneau de configuration 
@@ -90,6 +94,7 @@ User-Deny-ControlPanel : GPO pour bloquer l'accés au panneau de configuration
  ![image](https://github.com/user-attachments/assets/e081f298-4909-4b9a-8954-413159c1c3f5)
 
 Verification de la GPO sur la machine cliente 
+
 ![image](https://github.com/user-attachments/assets/fe3973c4-e714-4245-9f25-d2f21090aab7)
 
 
