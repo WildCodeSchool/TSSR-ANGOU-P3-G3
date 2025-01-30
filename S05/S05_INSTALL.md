@@ -24,6 +24,8 @@ créer un dossier partagé avec le fond écran à deployer.
 
 ![image](https://github.com/user-attachments/assets/d7391bba-9f28-4fc5-b6a7-4987e36f7499)
 
+se connecter sur un client, pour vérifier que la GPO, soit bien déployer 
+
 
 User-Install-Chrome ( Gpo pour l'installation de Google Chrome )
 
@@ -45,16 +47,26 @@ User-Install-Vim ( Gpo pour l'installation de Vim, editeur de texte )
 
 Blocking-Access-Command-Prompt ( GPO pour bloquer l'accés a l'invite de commandes )
 
+> Editer la gpo,   
+ User Configuration      
+ Policies
+ Administrative Templates
+ system
+ prevent access to the command prompt
+
+![image](https://github.com/user-attachments/assets/bf7db012-00ae-4444-9f0f-74c755d37ff3)
+
+
+
+
+ 
 Blocking-Access-Registry
 
 User-Deny-ControlPanel ( GPO pour bloquer l'accés au panneau de configuration )
 
 ## FAQ : solutions aux problèmes connus et communs liés à l'installation et à la configuration
  
--- Mes GPO ne sont pas appliquées, avec comme message d'erreur : filtering not applied ( unknown reason ) ? 
-
+- Mes GPO ne sont pas appliquées, avec comme message d'erreur : filtering not applied ( unknown reason ) ? 
 Veillez a bien garder ou ajouter le groupe authenticated users.
-
-
 
 
