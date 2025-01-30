@@ -56,6 +56,7 @@ Blocking-Access-Command-Prompt ( GPO pour bloquer l'accés a l'invite de command
 
 ![image](https://github.com/user-attachments/assets/bf7db012-00ae-4444-9f0f-74c755d37ff3)
 
+![image](https://github.com/user-attachments/assets/ad8b1ea9-f864-4bdd-b6c8-c3380b639b53)
 
 
 
