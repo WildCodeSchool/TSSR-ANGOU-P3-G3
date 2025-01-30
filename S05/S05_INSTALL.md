@@ -65,6 +65,21 @@ Blocking-Access-Registry
 
 User-Deny-ControlPanel ( GPO pour bloquer l'accés au panneau de configuration )
 
+> Editer la gpo,
+ User Configuration   
+ Policies        
+ Administrative templates   
+ Control Panel
+ Prohibit access to control panel and pc settings
+
+ ![image](https://github.com/user-attachments/assets/e081f298-4909-4b9a-8954-413159c1c3f5)
+
+Verification de la GPO sur la machine cliente 
+![image](https://github.com/user-attachments/assets/fe3973c4-e714-4245-9f25-d2f21090aab7)
+
+
+
+
 ## FAQ : solutions aux problèmes connus et communs liés à l'installation et à la configuration
  
 - Mes GPO ne sont pas appliquées, avec comme message d'erreur : filtering not applied ( unknown reason ) ? 
