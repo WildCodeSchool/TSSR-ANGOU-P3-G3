@@ -11,7 +11,7 @@ Deux cartes réseaux : vmbrg3 : connécté au réseau / vmbr3 : connecté au dom
 
 #### - stratégies de groupe standard :
 
-User-Interface-Wallpaper ( GPO pour le deploiement du fond écran )
+User-Interface-Wallpaper : GPO pour le deploiement du fond écran 
 
 créer un dossier partagé avec le fond écran à deployer.
 
@@ -41,11 +41,11 @@ via ce lien : [chrome entreprise](https://chromeenterprise.google/download/?utm_
       - Deployment : Published
       
 
-User-Install-Vim ( Gpo pour l'installation de Vim, editeur de texte )  
+User-Install-Vim : Gpo pour l'installation de Vim, editeur de texte 
 
 #### - stratégies de groupe sécurité : 
 
-Blocking-Access-Command-Prompt ( GPO pour bloquer l'accés a l'invite de commandes )
+Blocking-Access-Command-Prompt : GPO pour bloquer l'accés a l'invite de commandes 
 
 > Editer la gpo,   
  User Configuration      
@@ -63,7 +63,22 @@ Blocking-Access-Command-Prompt ( GPO pour bloquer l'accés a l'invite de command
  
 Blocking-Access-Registry
 
-User-Deny-ControlPanel ( GPO pour bloquer l'accés au panneau de configuration )
+
+Computer-Resrtiction-Software : restreindre l'installation de nouveaux logiciels.
+
+> Editer la gpo,
+ Computer Configuration   
+ Policies        
+ Security settings   
+ Software restriction policies
+ Software restriction policies/security levels
+ Software restriction policies/additional rules
+
+
+![image](https://github.com/user-attachments/assets/ce1dee01-438a-4531-938c-e7149f4b28c7)
+
+
+User-Deny-ControlPanel : GPO pour bloquer l'accés au panneau de configuration 
 
 > Editer la gpo,
  User Configuration   
