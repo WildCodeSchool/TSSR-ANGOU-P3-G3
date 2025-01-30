@@ -17,7 +17,7 @@ créer un dossier partagé avec le fond écran à deployer.
 
 > Editer la gpo,
  User Configuration   
- Policies     
+ Policies        
  Administrative templates   
  Desktop   
  Desktop   
@@ -49,10 +49,10 @@ Blocking-Access-Command-Prompt ( GPO pour bloquer l'accés a l'invite de command
 
 > Editer la gpo,   
  User Configuration      
- Policies
- Administrative Templates
- system
- prevent access to the command prompt
+ Policies    
+ Administrative Templates    
+ system   
+ prevent access to the command prompt   
 
 ![image](https://github.com/user-attachments/assets/bf7db012-00ae-4444-9f0f-74c755d37ff3)
 
