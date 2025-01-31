@@ -25,13 +25,13 @@ Dans un contexte d'evolution technologique les entreprises, font appel a des pre
 
 ## 3) Membres du groupe de projet (rôles par sprint)
 
-| Rôles du groupe | SPRINT 1 | SPRINT 2 | SPRINT 3 | SPRINT 4 | SPRINT 5 | SPRINT 6 | SPRINT 7 | SPRINT 8 | SPRINT 9 | SPRINT 10 | 
+| Rôles du groupe | SEMAINE 1 | SEMAINE 2 | SEMAINE 3 | SEMAINE 4 | SEMAINE 5 | SEMAINE 6 | SEMAINE 7 | SEMAINE 8 | SEMAINE 9 | SEMAINE 10 | 
 |:--------| :------: | :-----------: | :-----------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | Scrum Master  | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas | Mathieu | Mathieu |
 | Product Owner | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice |
 | Technicien    | Fabrice | Fabrice | Thomas | Thomas  | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas  | 
 
-| Rôles du groupe | SPRINT 11 | SPRINT 12 | SPRINT 13 | SPRINT 14 | SPRINT 15 | SPRINT 16 | SPRINT 17 | SPRINT 18 | SPRINT 19 | SPRINT 20 |
+| Rôles du groupe | SEMAINE 11 | SEMAINE 12 | SEMAINE 13 | SEMAINE 14 | SEMAINE 15 | SEMAINE 16 | SEMAINE 17 | SEMAINE 18 | SEMAINE 19 | SEMAINE 20 |
 |:--------| :------: | :-----------: | :-----------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | Scrum Master  | Fabrice | Fabrice | Thomas | Thomas  | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas  |
 | Product Owner | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas | Mathieu | Mathieu |
