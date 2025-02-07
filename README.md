@@ -29,13 +29,15 @@ Dans un contexte d'evolution technologique les entreprises, font appel a des pre
 |:--------| :------: | :-----------: | :-----------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | Scrum Master  | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas | Mathieu | Mathieu |
 | Product Owner | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice |
-| Technicien    | Fabrice | Fabrice | Thomas | Thomas  | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas  | 
+| Technicien 1    | Fabrice | Fabrice | Thomas | Thomas  | Mathieu | Mathieu | Fabrice | Fabrice | Dylan | Dylan  | 
+| Technicien 2    |         |         |        |         |         |         |         |         | Thomas | Thomas |
 
 | Rôles du groupe | SEMAINE 11 | SEMAINE 12 | SEMAINE 13 | SEMAINE 14 | SEMAINE 15 | SEMAINE 16 | SEMAINE 17 | SEMAINE 18 | SEMAINE 19 | SEMAINE 20 |
 |:--------| :------: | :-----------: | :-----------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| Scrum Master  | Fabrice | Fabrice | Thomas | Thomas  | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas  |
-| Product Owner | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas | Mathieu | Mathieu |
-| Technicien    | Mathieu | Mathieu | Fabrice | Fabrice | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice |
+| Scrum Master  | Fabrice | Fabrice | Dylan | Dylan  | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice |
+| Product Owner | Dylan | Dylan  | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice | Dylan | Dylan  |
+| Technicien 1   | Thomas | Thomas | Mathieu | Mathieu | Fabrice | Fabrice | Dylan | Dylan  | Thomas | Thomas |
+| Technicien 2   | Mathieu | Mathieu | Fabrice | Fabrice | Dylan | Dylan  | Thomas | Thomas | Mathieu | Mathieu |
 
 
 **Objectifs Sprint 1 :** 
