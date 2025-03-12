@@ -18,13 +18,13 @@ VM - Windows Server 2022
 - MySQL
 - telecharge via le lien https://dev.mysql.com/downloads/connector/j/ la version du logiciel TAR
 
-'' # MySQL
+``# MySQL
 mysql-hostname: 127.0.0.1
 mysql-port: 3306
 mysql-database: guacadb ( à modifier )
 mysql-username: guaca_nachos ( à modifier )
 mysql-password:     ( à modifier )
-''
+``
 
   
 
