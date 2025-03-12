@@ -28,7 +28,8 @@ mysql-hostname: 127.0.0.1
 mysql-port: 3306
 mysql-database: guacadb ( à modifier )
 mysql-username: guaca_nachos ( à modifier )   
-mysql-password:     ( à modifier )   
+mysql-password:     ( à modifier )
+mysql-server-timezone: France/Paris
 ```
 
 Configurer le serveur : ``nano /etc/guacamole/guacd.conf``
