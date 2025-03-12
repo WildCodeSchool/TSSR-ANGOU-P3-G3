@@ -6,6 +6,8 @@ VM - Windows Server 2022
 
 ## Etapes d'installation et de configuration (instructions étape par étape)
 
+### WINDOWS SERVER 2022
+
 - Ajouter fonctionalités, WSUS Windows Server Update
 - Renseigner un chemin existant C:/
 
