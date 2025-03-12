@@ -17,6 +17,8 @@ VM - Windows Server 2022
 
 - MySQL
 - telecharge via le lien https://dev.mysql.com/downloads/connector/j/ la version du logiciel TAR
+wget https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-j-9.1.0.tar.gz
+
 
 Configurer les propriétés : ``nano /etc/guacamole/guacamole.properties``
 
