@@ -20,12 +20,21 @@ VM - Windows Server 2022
 
 Configurer les propriétés : ``nano /etc/guacamole/guacamole.properties``
 
-``# MySQL
+```
+# MySQL
 mysql-hostname: 127.0.0.1
 mysql-port: 3306
 mysql-database: guacadb ( à modifier )
 mysql-username: guaca_nachos ( à modifier )   
 mysql-password:     ( à modifier )   
+```
+
+Configurer le serveur : ``nano /etc/guacamole/guacd.conf``
+
+``
+[server] 
+bind_host = 0.0.0.0
+bind_port = 4822
 ``
 
   
