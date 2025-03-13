@@ -6,14 +6,14 @@ VM - Windows Server 2022
 
 ## Etapes d'installation et de configuration (instructions étape par étape)
 
-#### Gestion des droits FSMO avec l'utilitaire NTDSUTIL
+### Gestion des droits FSMO avec l'utilitaire NTDSUTIL
 
-#### Prérequis
+### Prérequis
 
 - Un Serveur Windows avec les rôles __Active Directory__ et __Contrôleur__ de Domaine possédant des rôles FSMO du domaine
 - Un Serveur Windows avec les rôles __Active Directory__ et __Contrôleur de Domaine__ à qui déléguer des rôles FSMO
 
-#### Exécuter NTDSUTIL
+### Exécuter NTDSUTIL
 
 Sur un Contrôleur de Domaine Active Directory entrer `ntdsutil.exe` dans une __cosole cmd__, une __console powershell__ ou la __barre de recherche de windows__.
 
