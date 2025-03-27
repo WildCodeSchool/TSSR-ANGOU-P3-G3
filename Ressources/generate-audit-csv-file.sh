@@ -9,6 +9,7 @@ log="/var/log/lynis.log"
 # Crée l'entête du fichier CSV. Changer les semi-colons par un autre séparateur si besoin.
 echo "AUDIT EFFECTUE PAR;NOM DU SERVEUR;EMPLACEMENT DU SERVEUR;SCORE DE L'AUDIT;
 Mathieu Leroux;$HOSTNAME;FALKENSTEIN - Virtualisé sur Proxmox;
+
 DATE;HEURE;TYPE DE MESSAGE;DESCRIPTION;STATUS DE CORRECTION;COMMENTAIRE;" > Audit-$HOSTNAME.csv 
 
 # Formate le fichier log en csv
