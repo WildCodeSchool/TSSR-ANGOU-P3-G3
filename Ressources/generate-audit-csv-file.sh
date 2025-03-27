@@ -15,14 +15,14 @@ Mathieu Leroux;$HOSTNAME;FALKENSTEIN - Virtualisé sur Proxmox;;;
 echo "RESUME DE L'AUDIT;
 WARNING;
 DATE;HEURE;TYPE DE MESSAGE;DESCRIPTION;COMMENTAIRE / CORRECTION;STATUS DE CORRECTION;" >> Audit-$HOSTNAME.csv
-cat $log | grep "Warning" | awk '{print $1";"$2";"$3";"substr($0, index($0,$4))}
-' >> Audit-$HOSTNAME.csv
-echo "SUGGESTION;
+cat $log | grep "Warning" | awk '{print $1";"$2";"$3";"substr($0, index($0,$4))}' >> Audit-$HOSTNAME.csv
+echo "
+SUGGESTION;
 DATE;HEURE;TYPE DE MESSAGE;DESCRIPTION;COMMENTAIRE / CORRECTION;STATUS DE CORRECTION;" >> Audit-$HOSTNAME.csv
-cat $log | grep "Suggestion" | awk '{print $1";"$2";"$3";"substr($0, index($0,$4))}
-' >> Audit-$HOSTNAME.csv
+cat $log | grep "Suggestion" | awk '{print $1";"$2";"$3";"substr($0, index($0,$4))}' >> Audit-$HOSTNAME.csv
 
 # Formate l'intégralité du fichier log en csv et l'ajoute à la fin du fichier csv
-echos "AUDIT COMPLET;
+echos "
+AUDIT COMPLET;
 DATE;HEURE;TYPE DE MESSAGE;DESCRIPTION;" >> Audit-$HOSTNAME.csv
 cat $log | awk '{print $1";"$2";"$3";"substr($0, index($0,$4))}' >> Audit-$HOSTNAME.csv
