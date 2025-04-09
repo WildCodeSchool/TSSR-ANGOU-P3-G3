@@ -1,7 +1,7 @@
 # Synthèse du Matériel Proxmox
 
-| ID Matériel | Nom GUI Proxmox       | Nom Machine         | Type (VM/CT) | OS       | Fonction Principale                                                                 | Carte Réseau (vmbr) | IP/CIDR           | Disques (Nb) | Taille Disque (Go) | Libre (Go) | Libre (%) | RAM Totale (Go) | RAM Utilisée (%) |
-|:-------------:|:------------------------:|---------------------|--------------|----------|:----------------------------------------------------------------------------------------------------------:|---------------------|-------------------|--------------|-------------------|------------|-----------|-----------------|------------------|
+|       ID Matériel      |       Nom Matériel (Proxmox)    | Nom Machine  | Type (VM/CT) | OS  | Fonction Principale | Carte Réseau (vmbr) | IP/CIDR | Disques (Nb) | Taille Disque (Go) | Libre (Go) | Libre (%) | RAM Totale (Go) | RAM Utilisée (%) |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1131        | G3-SRV-AD-01           | G3-SRV-AD-01        | VM           | Windows  | DC - Maître d'attribution des noms de domaine, Maître d'infrastructure             | vmbr7              | 10.10.7.254/16   | -            | -                 | -          | -         | -               | -                |
 | 1133        | G3-SRV-AD-02           | G3-SRV-AD-02        | VM           | Windows  | DC - Emulateur PDC, Contrôleur de Schéma                                           | vmbr7              | 10.10.7.253/16   | -            | -                 | -          | -         | -               | -                |
 | 1120        | G3-RP                  | vyos                | VM           | VyOS     | Routeur                                                                            | -                  | -                 | -            | -                 | -          | -         | -               | -                |
