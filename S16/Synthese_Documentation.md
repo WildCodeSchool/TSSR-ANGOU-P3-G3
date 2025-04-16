@@ -1,4 +1,4 @@
-# Synthèse du Matériel Proxmox
+# Synthèse Documentation
 
 |       ID Matériel      |       Nom Matériel (Proxmox)    | Nom Matériel Machine  | Type (VM/CT) | Statut Doc Installation | Fonction Principale |
 |:-:|:-:|:-:|:-:|:-:|:-:|
